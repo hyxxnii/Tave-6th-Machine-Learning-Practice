@@ -24,6 +24,7 @@
 ---
 
 ## 3. 진행 방식
+- 스터디 정리 : https://www.notion.so/c4430e40558d49d7a33f2cb0d0e4fde3?v=46b77653838146aaa47b9b506698c9c5   
 
 - 스터디 교재: [파이썬 머신러닝 완벽가이드](https://book.naver.com/bookdb/book_detail.nhn?bid=16238302)
 
